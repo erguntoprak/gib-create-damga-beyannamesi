@@ -1,0 +1,1 @@
+# gib-create-damga-beyannamesi
