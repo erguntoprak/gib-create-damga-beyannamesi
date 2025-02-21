@@ -1,4 +1,6 @@
 {
+  "posts": [
+{
   "IdariBilgiler": {
     "BeyannameId": "123456",
     "IdariBilgiler": {
@@ -91,3 +93,4 @@
     ]
   }
 }
+  ]}
